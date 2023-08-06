@@ -1,0 +1,24 @@
+/.settings/
+/target/
+/.classpath
+/.idea
+/.project
+/.springBeans
+/test-output/
+/logs/
+/trade43.log
+/bin/
+*.class
+*.zip
+*.log
+*.pgsql
+*.DS_Store
+*.factorypath
+*.jar
+/docs/staruml/*.png
+/systemproperty
+.sts*
+.metadata/
+.vscode/extensions.json
+*.pdf
+>>>>>>> ab9eb194afb956fa604a49ba38848b438bbbaf5d
